@@ -1,5 +1,5 @@
 # chase_game
-[!note] em inglês pra charme 😁
+[!NOTE] em inglês pra charme 😁
 
 ## como rodar
 
