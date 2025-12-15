@@ -14,3 +14,6 @@ Então:
 ```terminal
 ./build/main
 ```
+
+> [!NOTE]
+> Mantendo o terminal aberto, é mostrado o tempo sobrevivido
