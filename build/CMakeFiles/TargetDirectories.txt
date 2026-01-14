@@ -1,3 +1,0 @@
-/home/felipe/Documents/code_projs/c_cpp/playground/playground_1/build/CMakeFiles/main.dir
-/home/felipe/Documents/code_projs/c_cpp/playground/playground_1/build/CMakeFiles/edit_cache.dir
-/home/felipe/Documents/code_projs/c_cpp/playground/playground_1/build/CMakeFiles/rebuild_cache.dir
