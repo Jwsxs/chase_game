@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/felipe/Documents/code_projs/c_cpp/playground/playground_1/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/main.dir/main.cpp.o -c /home/felipe/Documents/code_projs/c_cpp/playground/playground_1/src/main.cpp",
+  "file": "/home/felipe/Documents/code_projs/c_cpp/playground/playground_1/src/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+}
+]
