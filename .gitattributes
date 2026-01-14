@@ -1,0 +1,12 @@
+CMakeLists.txt linguist-vendored
+*.cmake linguist-vendored
+Makefile linguist-vendored
+
+build/** linguist-vendored
+
+*.c linguist-language=C
+*.cpp linguist-language=C++
+*.h linguist-language=C
+*.hpp linguist-language=C++
+
+*.ts linguist-vendored
